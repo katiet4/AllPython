@@ -1,0 +1,152 @@
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ GB 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ NZ 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_ru.files.fm_0 \ 2 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_text.ru_0 \ 3 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\http_front.facetz.net_0 \ 1 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\IndexedDB\https_yandex.ru_0.indexeddb.blob\2\00 \ 6 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Roaming\Yandex \ ui 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ GB 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ NZ 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_ru.files.fm_0 \ 2 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_text.ru_0 \ 3 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\http_front.facetz.net_0 \ 1 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\IndexedDB\https_yandex.ru_0.indexeddb.blob\2\00 \ 6 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Roaming\Yandex \ ui 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ GB 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ NZ 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_ru.files.fm_0 \ 2 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_text.ru_0 \ 3 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\http_front.facetz.net_0 \ 1 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\IndexedDB\https_yandex.ru_0.indexeddb.blob\2\00 \ 6 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Roaming\Yandex \ ui 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ GB 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ NZ 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_ru.files.fm_0 \ 2 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_text.ru_0 \ 3 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\http_front.facetz.net_0 \ 1 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\IndexedDB\https_yandex.ru_0.indexeddb.blob\2\00 \ 6 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Roaming\Yandex \ ui 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ GB 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ NZ 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ GB 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ NZ 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_ru.files.fm_0 \ 2 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_text.ru_0 \ 3 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\http_front.facetz.net_0 \ 1 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\IndexedDB\https_yandex.ru_0.indexeddb.blob\2\00 \ 6 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Roaming\Yandex \ ui 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ GB 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ NZ 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_ru.files.fm_0 \ 2 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_text.ru_0 \ 3 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\http_front.facetz.net_0 \ 1 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\IndexedDB\https_yandex.ru_0.indexeddb.blob\2\00 \ 6 
+   :   string index out of range |
+| C:\Users\NR records\AppData\Roaming\Yandex \ ui 
+   :   string index out of range |
+| C:\\Program Files\Common Files\Adobe\TypeSupport\CS6\CMaps \ H 
+   :   string index out of range |
+
+
+| C:\\Program Files\Common Files\Adobe\TypeSupport\CS6\CMaps \ V 
+   :   string index out of range |
+
+
+| C:\\Program Files\Photoshop CS6\Locales\en_US\Additional Presets\Win\Workspaces\2-Task-based Workspaces \ 3D 
+   :   string index out of range |
+
+
+| C:\\Program Files\Photoshop CS6\Locales\ru_RU\Additional Presets\Win\Workspaces\2-Task-based Workspaces \ 3D 
+   :   string index out of range |
+
+
+| C:\\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ GB 
+   :   string index out of range |
+
+
+| C:\\Users\NR records\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ NZ 
+   :   string index out of range |
+
+
+| C:\\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_ru.files.fm_0 \ 2 
+   :   string index out of range |
+
+
+| C:\\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\https_text.ru_0 \ 3 
+   :   string index out of range |
+
+
+| C:\\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\http_design.ru-deluxe.ru_0 \ 4 
+   :   string index out of range |
+
+
+| C:\\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\databases\http_front.facetz.net_0 \ 1 
+   :   string index out of range |
+
+
+| C:\\Users\NR records\AppData\Local\Yandex\YandexBrowser\User Data\Default\IndexedDB\https_yandex.ru_0.indexeddb.blob\2\00 \ 6 
+   :   string index out of range |
+
+
+| C:\\Users\NR records\AppData\Roaming\Adobe\Adobe Photoshop CS6\Adobe Photoshop CS6 Settings\WorkSpaces (Modified) \ 3D 
+   :   string index out of range |
+
+
+| C:\\Users\NR records\AppData\Roaming\Yandex \ ui 
+   :   string index out of range |
+
+
+| C:\\Users\Nayv tu beats rec\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ GB 
+   :   string index out of range |
+
+
+| C:\\Users\Nayv tu beats rec\AppData\Local\Programs\Python\Python36-32\tcl\tcl8.6\tzdata \ NZ 
+   :   string index out of range |
+
+
+| C:\\Users\Nayv tu beats rec\AppData\Roaming\Yandex \ ui 
+   :   string index out of range |
+
+

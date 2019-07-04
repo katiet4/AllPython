@@ -1,0 +1,1 @@
+pip install kivy.deps.angle && set KIVY_GL_BACKEND=angle_sdl2

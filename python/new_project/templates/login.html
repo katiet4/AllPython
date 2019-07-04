@@ -1,0 +1,10 @@
+{% extends 'index.html' %}
+	{%block content%}
+	<a href="/logs"><strong>Logs</strong></a>
+	<form action="/log" method="POST">
+		Email:<input id="First_name" type = "text" name= "Email" title = "Email" placeholder = "Email"><br/>
+		Password:<input type = "password" name= "password" title = "password" placeholder = "password"><br/>
+		<input type="submit" name="button" value="Login">
+		<a href="/registrat"><input type="button" name="button" value="Signin"></a>
+	</form>
+	{%endblock%}

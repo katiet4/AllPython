@@ -1,0 +1,20 @@
+{%extends 'index.html'%}
+{%block content%}
+<a href="../logs"><strong>Logs</strong></a>
+	<form action="/res" method="POST">
+		First_name:<input id="First_name" type = "text" name= "first_name" title = "First_name" placeholder = "First_name"><br/>
+		Last_name:<input type = "text" name= "last_name" title = "Last_name" placeholder = "Last_name"><br/>
+		Birthday:<input type = "text" name= "birthdayD" title = "birthdayD" placeholder = "D"
+		min="2" size="2">
+		<input type = "text" name= "birthdayM" title = "birthdayM" placeholder = "M" min="2" size="2">
+		<input type = "text" name= "birthdayY" title = "birthdayY" placeholder = "Y" min="4" size="4"><br/>
+		Numbers_answer(yes/no):<input type = "text" name= "numbers_answer" title = "Numbers_answer" placeholder = "numbers_answer"><br/>
+		Numbers(','):<input type = "text" name= "numbers" title = "Numbers" placeholder = "Numbers"><br/>
+		Quantitly:<input type = "text" name= "quantitly" title = "Quantitly" placeholder = "Quantitly"><br/>
+		Size(min=2;max=11):<input type = "text" name= "size" title = "Size" placeholder = "Size" size="2">
+		<br/>
+		<input type="submit" name="button" value="Generate">
+
+	</form>
+	<h1>{{ all }}</h1>
+{%endblock%}
