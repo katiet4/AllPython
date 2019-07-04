@@ -1,0 +1,4 @@
+git add -A
+git commit -m "ваше сообщение"
+git push origin название-текущей-ветки
+git pull
