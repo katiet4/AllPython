@@ -1,0 +1,13 @@
+{% extends 'index.html' %}
+	{% block head %}
+		<title>{{titles}}</title>
+	{% endblock %}
+	{% block content %}
+		<form method="post" action="">
+			<label style="color: white">How long pairs? : </label>
+			<input type="text" name="howLong2">
+			<input type="submit" name="send">
+			{% csrf_token %}
+		</form>
+		<h3 style="color: white">{{itog}}</h3>
+	{% endblock %}

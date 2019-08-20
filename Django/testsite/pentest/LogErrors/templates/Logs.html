@@ -1,0 +1,20 @@
+{% extends 'index.html' %}
+	{% block head %}
+		<title>Logs</title>
+	{% endblock %}
+	
+	{% block content %}
+	{%for log in object_list%}
+		<table border="1px">
+			<tr>
+				<td style="color:white">{{log.Link}}</td>
+			</tr>
+			<tr>
+				<td style="color:white">{{log.Error}}</td>
+			</tr>
+			<tr>
+				<td style="color:white">{{log.Date}}</td>
+			</tr>
+		</table>
+	{%endfor%}
+	{% endblock %}

@@ -1,0 +1,26 @@
+{% extends 'index.html' %}
+	{% block head %}
+		<title>{{titles}}</title>
+	{% endblock %}
+{% block content %}
+	<form method="POST" action="">
+		<label style="color: white">Any: </label><input type="text" name="system"><br/>
+		<label style="color: white">Number one: </label><input type="text" name="NumOne"><br/>
+		<label style="color: white">Number two: </label><input type="text" name="NumTwo"><br/>
+		<label style="color: white">(+,-,/,*): </label><input type="text" name="PMDU">
+		<input type="submit" name="travel" value="Go">
+		{% csrf_token %}
+	</form>
+	<p style="color: white;">hello</p>
+	{% for k , v in allNumbers.items %}
+		<table style="color: white;margin-left: 100px;border: 1px solid white">
+			<th>
+				<td>{{k}}</td>
+			</th>
+				{% for Vv in v %}
+				<tr><td style="padding-left: 10px;">{{Vv}}</td></tr>
+				{% endfor %}
+		</table>
+		}
+	{% endfor %}
+{% endblock %}

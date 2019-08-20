@@ -1,0 +1,15 @@
+{% extends 'index.html' %}
+	{% block head %}
+		<title>{{titles}}</title>
+	{% endblock %}
+{% block content %}
+	<form method="post" action="">
+		<label style="color: white">Key:</label><input type="text" name="key" value="{{key}}"><br/>
+		<label style="color: white">Text:</label>
+		<textarea name="texts">{{text}}</textarea><br/>
+		<label style="color: white">TextHash:</label>
+		<textarea name="texthash">{{texthash}}</textarea><br/>
+		<input type="submit" name="button" value="hash"><input type="submit" name="button" value="de_hash">
+		{% csrf_token %}
+	</form>
+	{% endblock %}

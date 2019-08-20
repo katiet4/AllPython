@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% block head %}
+	{% endblock %}
+	<title>poka</title>
+	{% load staticfiles %}
+	<link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.min.css' %}">
+</head>
+<body style="background-color: black">
+	<!--|||<a href="/admin/">admin</a>-->|||
+			<a href="/Logs">Logs</a>|||
+			<a href="/hashDehash">hashDehash</a>|||
+			<a href="/binarySystem">binarySystem</a>|||
+			<a href="/messages">messages</a>|||
+			<a href="/borders">borders</a>|||<a href="/">Exit</a>|||<a href="/loginOrRegistration/login">login</a>|||
+	<a href="/loginOrRegistration/registration">registration</a>|||<a href="/chat">chat</a>|||<a href="/chatwithfriends/friends">friends</a>|||<a href="/chatwithfriends/dialogues">dialogues</a>|||
+	{% block content %}
+	{% endblock %}
+</body>
+</html>
