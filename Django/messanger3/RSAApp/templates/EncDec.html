@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load staticfiles %}
+	<link rel="stylesheet" type="text/css" href="{% static 'RSAStyle.css' %}">
+	<title> RSA </title>
+</head>
+<body style="background-color: #c8d3c8;">
+	<div id='mainmenu'>
+		<img id='logo' src="/static/images/hackLogo.png">
+		<a href="/"><input type="button" name="MM" value="Main menu"></a>
+		<a href="/Messages"><input type="button" name="Mess" value="Messages"></a>
+		<a href="/RSA"><input type="button" name="RSA" value="RSA"></a>
+		<a href="/Notepad"><input type="button" name="Note" value="Notepad"></a>
+		<a href="/Exit"><input type="button" name="Ex" value="Exit"></a>
+		{n,d}-close key; {n,e}-open key.<br/>
+		<form action="" method="POST">
+			<textarea id="textE" name="encrypt" placeholder="Encrypt">{{encrypt}}</textarea>
+			<textarea id="textD" name="decrypt" placeholder="Dencrypt">{{decrypt}}</textarea><br/>
+			<label id='label'>e:</label><input id = 'e' class="keys" type="text" name="e" placeholder="E" value="{{e}}">
+			<label>n:</label>
+			<input class="keys" type="text" name="n" placeholder="N" value="{{n}}">
+			<label>d:</label>
+			<input class="keys" type="text" name="d" placeholder="D" value="{{d}}"><br/>
+			<input id='encrypt' type="submit" name="what" value="encrypting">
+			<input id='decrypt' type="submit" name="what" value="decrypting">
+			<input id='decrypt' type="submit" name="what" value="generating">
+			{% csrf_token %}
+		</form>
+
+	</div>
+</body>
+</html>

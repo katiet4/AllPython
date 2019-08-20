@@ -1,0 +1,12 @@
+{% extends 'login/index.html' %}
+{% block title %} Вход {% endblock %}
+{% block content %}
+	<form action="" method="POST">
+		<input id='login' type="text" name="login" placeholder="Login/Nphone">
+		<input id='password' type="password" name="password" placeholder="Password"><br/>
+		<input id='Blogin' type="submit" name="BLogin" value="Login">
+		<a href="/registration"><input id='BReg' type="button" name="BRegistration" value="Registration"></a>
+		{% csrf_token %}
+	</form>
+{% endblock %}
+	

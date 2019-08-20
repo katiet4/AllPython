@@ -1,0 +1,32 @@
+
+#login{
+	font-size: 22px;
+	width: 30%;
+	height: 50px;
+	margin-top:10%;
+	margin-left:19%;
+}
+#password{
+	font-size: 22px;
+	width: 30%;
+	height: 50px;
+}
+#Blogin{
+ 	font-size: 22px;
+	width: 31.8%;
+	height: 50px;
+	margin-top:3%;
+	margin-left:19%;
+}
+#BReg{
+	font-size: 22px;
+	width: 31.8%;
+	height: 50px;
+}
+#EBlogin{
+ 	font-size: 22px;
+	width: 31.8%;
+	height: 50px;
+	margin-top:100%;
+	margin-left:19%;
+}

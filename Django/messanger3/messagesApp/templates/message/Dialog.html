@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load staticfiles %}
+	<link rel="stylesheet" type="text/css" href="{% static 'DialogStyle.css' %}">
+	<title> Сообщения </title>
+</head>
+<body style="background-color: #c8d3c8;">
+	<div id='mainmenu'>
+		<img id='logo' src="/static/images/hackLogo.png">
+		<a href="/"><input type="button" name="MM" value="Main menu"></a>
+		<a href="/Messages"><input type="button" name="Mess" value="Messages"></a>
+		<a href="/RSA"><input type="button" name="RSA" value="RSA"></a>
+		<a href="/Notepad"><input type="button" name="Note" value="Notepad"></a>
+		<a href="/Exit"><input type="button" name="Ex" value="Exit"></a><br/>
+		<form action="" method="POST">
+			<textarea id="dialog" name="dialog">{{saved}}</textarea><br/>
+			<textarea id="message" name="message"></textarea><br/>
+			<input id='send' type="submit" name="send" value="send">
+			<input id='update' type="submit" name="update" value="update">
+			{% csrf_token %}
+		</form>
+	</div>
+</body>
+</html>

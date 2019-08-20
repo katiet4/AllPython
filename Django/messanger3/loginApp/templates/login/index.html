@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load staticfiles %}
+	<link rel="stylesheet" type="text/css" href="{% static 'StyleForLogin.css' %}">
+	<link rel="stylesheet" type="text/css" href="{% static 'StyleForRegistration.css' %}">
+	<link rel="stylesheet" type="text/css" href="{% static 'StyleForIndex.css' %}">
+	<title>{% block title %}{% endblock %}</title>
+</head>
+<body style="background-color: #c8d3c8;">
+	<div id='forms'>
+		<img id='logo' src="/static/images/hackLogo.png">
+		<span id='results' style="color: {{colors}}">{{result}}</span>
+		{% block content %}
+		
+		{% endblock %}
+	</div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+#mainmenu{
+	background-color:  #04b814 ;
+	width: 60%;
+	height: 600px;
+	margin-top:-3%;
+	margin-left:20%;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+#logo{
+	width: 5%;
+	height: 50px;
+	margin-top:6%;
+	margin-left:1%;
+}
+a{
+	text-decoration: none;
+}
+#dialog{
+	font-size: 22px;
+	margin-top:1%;
+	margin-left:5%;
+	width: 90%;
+	height: 350px;
+	resize: none;
+}
+#message{
+	font-size: 22px;
+	margin-top:0.5%;
+	margin-left:5%;
+	width: 90%;
+	height: 50px;
+	resize: none;
+}
+#send{
+ 	font-size: 22px;
+	width: 31.8%;
+	height: 50px;
+	margin-left:18%;
+}
+#update{
+ 	font-size: 22px;
+	width: 31.8%;
+	height: 50px;
+}

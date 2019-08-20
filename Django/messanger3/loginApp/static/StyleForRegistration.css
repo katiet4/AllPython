@@ -1,0 +1,36 @@
+#first_name{
+	font-size: 22px;
+	width: 30%;
+	height: 50px;
+	margin-top:10%;
+	margin-left:19%;
+}
+#last_name{
+	font-size: 22px;
+	width: 30%;
+	height: 50px;
+}
+#loginR{
+	font-size: 22px;
+	width: 30%;
+	height: 50px;
+	margin-top:3%;
+	margin-left:19%;
+}
+#passwordR{
+	font-size: 22px;
+	width: 30%;
+	height: 50px;
+}
+#BloginR{
+ 	font-size: 22px;
+	width: 31.8%;
+	height: 50px;
+	margin-top:3%;
+	margin-left:19%;
+}
+#BRegR{
+	font-size: 22px;
+	width: 31.8%;
+	height: 50px;
+}

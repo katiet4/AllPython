@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load staticfiles %}
+	<link rel="stylesheet" type="text/css" href="{% static 'MainMenuStyle.css' %}">
+	<title> Главное меню </title>
+</head>
+<body style="background-color: #c8d3c8;">
+	<div id='mainmenu'>
+		<img id='logo' src="/static/images/hackLogo.png">
+		<a href="/Messages"><input type="button" name="Mess" value="Messages"></a>
+		<a href="/RSA"><input type="button" name="RSA" value="RSA"></a>
+		<a href="/Notepad"><input type="button" name="Note" value="Notepad"></a>
+		<a href="{% static 'bhf.jar' %}" download=""><input type="button" name="down" value="download"></a>
+		<a href="/Exit"><input type="button" name="Ex" value="Exit"></a><br/>
+		<div id="info" > First_name:{{ First_name }}; Last_name:{{ Last_name }};</div>
+	</div>
+</body>
+</html>
